@@ -6,3 +6,5 @@ output = cv2.Laplacian(img, -1, 1, 5)        # 偵測邊緣
 cv2.imshow('oxxostudio', output)
 cv2.waitKey(0)                               # 按下任意鍵停止
 cv2.destroyAllWindows()
+
+cv2.imwrite('me.jpg', output)
