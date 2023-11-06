@@ -8,7 +8,7 @@ Created on Sun Oct 24 20:30:31 2021
 import cv2
 
 # 選擇第一隻攝影機
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 while(True):
   # 從攝影機擷取一張影像
