@@ -20,4 +20,6 @@ pip install --upgrade pip
 
 pip install face_recognition
 
+pip install rembg 
+
 *********************************
