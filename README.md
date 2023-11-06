@@ -23,3 +23,7 @@ pip install face_recognition
 pip install rembg 
 
 *********************************
+去背景
+https://pypi.org/project/rembg/#files
+
+
